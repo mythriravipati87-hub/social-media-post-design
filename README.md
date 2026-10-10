@@ -20,7 +20,7 @@ Key Features
 - Social media-ready square format
 
 Project Preview
-![Social Media Poster]([social-media-post.png](https://github.com/mythriravipati87-hub/social-media-post-design))
+![Social Media Poster]([social-media-post.png])
 
  Learning Outcomes
 - Learned basic graphic design principles.
